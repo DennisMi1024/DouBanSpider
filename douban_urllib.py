@@ -3,7 +3,8 @@
 # @Date    : 2014-10-09 17:11:42
 # @Author  : Linsir (vi5i0n@hotmail.com)
 # @Link    : http://linsir.org
-
+# @Modify  : Dennis(2475027682@qq.com)
+#
 import re
 import urllib
 import urllib2
@@ -12,8 +13,8 @@ import random
 import time
 
 from bs4 import BeautifulSoup 
-email = '2475027682@qq.com'
-password = 'DENNISMI@1024'
+email = 'youmail@email.com'
+password = 'passwd'
 cookies_file = 'Cookies_saved.txt'
 
 
